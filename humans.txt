@@ -1,0 +1,4 @@
+Hosts files for other GitHub pages,
+and serves project pages from rc.evansosenko.com.
+
+My homepage is https://evansosenko.com.
